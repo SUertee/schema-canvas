@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schema Canvas"
+  short_description: "生成清晰、低噪声、可搜索的交互式 HTML ERD"
+  default_prompt: "Use $schema-canvas to turn this database schema into a polished interactive HTML ERD."
