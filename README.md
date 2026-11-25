@@ -39,3 +39,7 @@ git pull
 ## 输出原则
 
 生成结果是一个自包含的 `.html` 文件，CSS、JavaScript 和 Schema 数据均内嵌，不依赖构建流程，并且可以离线浏览。Schema Canvas 只根据结构证据生成图表，不应写入数据库记录、凭据或个人数据。
+
+## License
+
+[MIT](LICENSE)
